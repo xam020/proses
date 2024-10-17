@@ -1,0 +1,27 @@
+body {
+    background-color: #ffe8c6;
+    }
+    
+    .container-navbar {
+    
+    }
+    
+    .ul-navbar {
+    display: flex;
+    justify-content: center;
+    }
+    
+    .li-navbar{
+        text-decoration: none;
+        color: black;
+    list-style-type: none;
+    padding: 20px;
+    margin: 1px;
+    }
+    .li-navbar:hover {
+        background-color: #ae0f11;
+transition: .5s ease-in-out;
+transition-delay: .3s;
+border-radius: 8px;
+    }
+
